@@ -1,11 +1,11 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #DADFE6;
-    background-color: #202124;
+    color: #E8E8E8;
+    background-color: #202020;
     font-size: 18px;
 }
 a:link, a:visited, a:active {
-    color:#8ab4f8;
+    color:#0073ce;
     text-decoration: none;
 }
 a:hover {
